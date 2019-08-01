@@ -1,0 +1,34 @@
+{
+  "ferramentas": [
+    {
+    	"id": 1,
+    	"nome": "cronometro",
+    	"link": "https://www.diegopinho.com.br/",
+    	"imagem": "https://via.placeholder.com/225x100",
+    	"descricao": "site de cronometro para ser utilizado na sala de aula. permite regularmos o tempo de duração das atividades das crianças em sala de aula",
+    	"series": "Todos",
+    	"isMobile": true,
+    	"recomendacao": "TE"
+	},
+	{
+    	"id": 2,
+    	"nome": "reloginho",
+    	"link": "https://www.diegopinho.com.br/",
+    	"imagem": "https://via.placeholder.com/225x100",
+    	"descricao": "reloginho muito legal",
+    	"series": "Ensino Fundamental 1 e 2",
+    	"isMobile": false,
+    	"recomendacao": "diego.pinho"
+	},
+	{
+    	"id": 3,
+    	"nome": "computador",
+    	"link": "https://www.diegopinho.com.br/",
+    	"imagem": "https://via.placeholder.com/225x100",
+    	"descricao": "outro teste bem maroto!",
+    	"series": "Ensino Fundamental 1",
+    	"isMobile": false,
+    	"recomendacao": "luiz.carlos"
+	}
+  ]
+}
